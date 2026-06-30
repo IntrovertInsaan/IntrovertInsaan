@@ -2,7 +2,7 @@
 Full-Stack 3D Developer · Memory Athlete
 
 ### 🔐 Currently Building
-[Decryptors](https://github.com/IntrovertInsaan/decryptors) — CLI puzzle game with cryptographic mechanics.
+[decryptors](https://github.com/IntrovertInsaan/decryptors) — CLI puzzle game with cryptographic mechanics.
 
 ### 🛠 Stack
 | Layer | Technologies |

@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Raja Dodve
-Full-Stack 3D Developer · Memory Athlete
+Full-Stack 3D Developer · Memory Athlete/Coach
 
 ### 🔐 Currently Building
 [decryptors](https://github.com/IntrovertInsaan/decryptors) — CLI puzzle game with cryptographic mechanics.

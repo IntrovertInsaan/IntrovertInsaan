@@ -16,11 +16,11 @@ Full-Stack 3D Developer · Memory Athlete/Trainer
 | **Tooling** | Neovim, Git, WezTerm |
 | **OS** | ARCH LINUX | UBUNTU |
 
-### Memory Athlete (6 years)
+### Memory Athlete (6+ years)
 · 100 digits in 17s · 111 in spoken digits · 100+ dates in 5 minutes
-· 52 cards in 19s · 500+ binary in 2.5m · 1,000 digits of π
-· Mental Math, Day of Any DATE instantly · Sub-25s Blindfold Cuber
-· 1900+ Elo Chess · 120 WPM typist · Speed-Reader
+· 52 cards in 19s · 500+ binary in 2.5m · 1000 digits of π
+· Mental Math · Day of Any DATE instantly · Sub-25s Blindfold Cuber
+· 1900+ Elo Chess · 120 WPM typist · Speed Reader
 
 ### ⚙️ Philosophy
 Write systems that last. If you have to do it twice, automate it.

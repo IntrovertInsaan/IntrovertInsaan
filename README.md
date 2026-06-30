@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Raja Dodve
-Full-Stack 3D Engineer · Terminal Maximalist · Memory Athlete
+Full-Stack 3D Developer · Memory Athlete
 
 ### 🔐 Currently Building
 [Decryptors](https://github.com/IntrovertInsaan/decryptors) — CLI puzzle game with cryptographic mechanics.
@@ -15,7 +15,7 @@ Full-Stack 3D Engineer · Terminal Maximalist · Memory Athlete
 | **DevOps** | Linux, Docker, Nginx, Bash |
 | **Tooling** | Neovim, Git, WezTerm |
 
-### 🧠 Memory Athlete (6 years)
+### Memory Athlete (6 years)
 · 100 digits in 17s · 100+ in spoken digits · 100+ dates in 5 minutes
 · 52 cards in 19s · 500+ binary in 2.5m · 1,000 digits of π
 · Mental Math, Day of Any DATE instantly · Sub-25s Blindfold Cuber

@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Raja Dodve
 Full-Stack 3D Developer · Memory Athlete/Trainer
 
-### 🔐 Currently Building
-[decryptors](https://github.com/IntrovertInsaan/decryptors) — CLI puzzle game with cryptographic mechanics.
+### 📦 Currently Building
+[pacwatch](https://github.com/IntrovertInsaan/pacwatch) — terminal UI for browsing and understanding installed packages
 
 ### 🛠 Stack
 | Layer | Technologies |
@@ -14,7 +14,6 @@ Full-Stack 3D Developer · Memory Athlete/Trainer
 | **Database** | PostgreSQL, SQLite, Turso |
 | **DevOps** | Linux, Docker, Nginx, Bash |
 | **Tooling** | Neovim, Git, WezTerm |
-| **OS** | ARCH LINUX | UBUNTU |
 
 ### Memory Athlete (6+ years)
 · 100 digits in 17s · 111 in spoken digits · 100+ dates in 5 minutes

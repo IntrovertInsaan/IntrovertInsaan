@@ -1,10 +1,24 @@
 # 👋 Hello, I'm Raja Dodve
-Full-Stack 3D Developer · Memory Athlete/Trainer
+Full-Stack Developer · 3D Web Developer · Memory Athlete
 
-### 📦 Currently Building
-[pacwatch](https://github.com/IntrovertInsaan/pacwatch) — terminal UI for browsing and understanding installed packages
+I enjoy building developer tools, interactive learning platforms, terminal applications, and 3D web experiences.
+
+### ✨ Currently Building
+Most of my current work is private while under active development.
+
+[pacwatch](https://github.com/IntrovertInsaan/pacwatch) - TUI for browsing and understanding installed packages
+
+**Crubiks** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
+
+**Railogy** *(Private)* — Interactive Rails analogy site for learning the fundamentals the easy way.
+
+**starwatch** *(Private)* — TUI for browsing and managing GitHub repositories.
+
+**OtakuSheet** *(Private)* — CLI tool that makes media tracking effortless.
 
 ### 🛠 Stack
+
+
 | Layer | Technologies |
 |:---|:---|
 | **Languages** | Ruby, Rust, Python, TypeScript |
@@ -15,16 +29,33 @@ Full-Stack 3D Developer · Memory Athlete/Trainer
 | **DevOps** | Linux, Docker, Nginx, Bash |
 | **Tooling** | Neovim, Git, WezTerm |
 
+
 ### Memory Athlete (6+ years)
-· 100 digits in 17s · 111 in spoken digits · 100+ dates in 5 minutes
-· 52 cards in 19s · 500+ binary in 2.5m · 1000 digits of π
-· Mental Math · Day of Any DATE instantly · Sub-25s Blindfold Cuber
-· 1900+ Elo Chess · 120 WPM typist · Speed Reader
+
+Memory athlete, helping people discover what trained memory is capable of.
+
+**Achievements**
+- 80 random digits in 11s
+- 100 random digits in 17.04s
+- 111 spoken digits
+- 52 cards in 19.39s
+- 500+ binary digits in 2.5 min
+- 100+ dates in 5 min
+- Memorized 1,000 digits of π
+- Blindfold Rubik's Cube (Sub-25s)
+
+**Beyond Memory**
+- Mental Math
+- Calendar Calculations
+- 120 WPM typing
+- Speed Reading
+- Chess: 1900+ (Lichess), 1700+ (Chess.com)
 
 ### ⚙️ Philosophy
-Write systems that last. If you have to do it twice, automate it.
-Pattern recognition over memorization. Terminal over everything.
+Write systems that last.
+If you have to do it twice, automate it.
+Curiosity beats complexity.
 
 ### 💬 Connect
-- **Ask me about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.
+- **Happy to chat about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.
 - **Reach me:** [rajadodve43@gmail.com](mailto:rajadodve43@gmail.com)

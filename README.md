@@ -6,15 +6,15 @@ I enjoy building developer tools, interactive learning platforms, terminal appli
 ### ✨ Currently Building
 Most of my current work is private while under active development.
 
-[pacwatch](https://github.com/IntrovertInsaan/pacwatch) - TUI for browsing and understanding installed packages
+**[pacwatch](https://github.com/IntrovertInsaan/pacwatch)** - TUI for browsing and understanding installed packages
 
-**Crubiks** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
+**[Crubiks](https://crubiks.pages.dev/)** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
 
 **Railogy** *(Private)* — Interactive Rails analogy site for learning the fundamentals the easy way.
 
 **starwatch** *(Private)* — TUI for browsing and managing GitHub repositories.
 
-**OtakuSheet** *(Private)* — CLI tool that makes media tracking effortless.
+**otakusheet** *(Private)* — CLI tool that makes media tracking effortless.
 
 ### 🛠 Stack
 

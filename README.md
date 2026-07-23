@@ -6,7 +6,7 @@ I enjoy building developer tools, interactive learning platforms, terminal appli
 ### ✨ Currently Building
 Most of my current work is private while under active development.
 
-**[Crubiks](https://crubiks.pages.dev/)** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
+**[Krubiks](https://crubiks.pages.dev/)** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
 
 **Railogy** *(Private)* — Interactive Rails analogy site for learning the fundamentals the easy way.
 

@@ -7,7 +7,7 @@ I build developer tools, interactive learning platforms, terminal applications, 
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IntrovertInsaan&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Currently Building
+## Currently Building
 Most of my current work is private and under active development.
 
 **[Krubiks](https://krubiks.pages.dev/)** *(Private)* - Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
@@ -18,7 +18,7 @@ Most of my current work is private and under active development.
 
 **OtakuSheet** *(Private)* - Command-line media tracker for anime, manga, series and more.
 
-### 🛠 Stack
+## 🛠 Stack
 
 
 | Layer | Technologies |
@@ -32,7 +32,7 @@ Most of my current work is private and under active development.
 | **Tooling** | Neovim, Git, WezTerm |
 
 
-### Memory Athlete (6+ years)
+## Memory Athlete (6+ years)
 
 Memory athlete, helping people discover what trained memory is capable of.
 
@@ -53,11 +53,11 @@ Memory athlete, helping people discover what trained memory is capable of.
 - Speed Reading
 - Chess: 1900+ (Lichess), 1700+ (Chess.com)
 
-### ⚙️ Philosophy
+## ⚙️ Philosophy
 Write systems that last.
 If you have to do it twice, automate it.
 Curiosity beats complexity.
 
-### 💬 Connect
+## 💬 Connect
 - **Happy to chat about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.
 - **Reach me:** [rajadodve43@gmail.com](mailto:rajadodve43@gmail.com)

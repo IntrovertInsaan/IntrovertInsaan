@@ -3,16 +3,16 @@ Full-Stack Developer · 3D Web Developer · Memory Athlete
 
 I enjoy building developer tools, interactive learning platforms, terminal applications, and 3D web experiences.
 
-### ✨ Currently Building
+### Currently Building
 Most of my current work is private while under active development.
 
-**[Krubiks](https://krubiks.pages.dev/)** *(Private)* — Interactive 3D Rubik's Cube platform for learning and practicing blindfold solving online.
+**[Krubiks](https://krubiks.pages.dev/)** *(Private)* — Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
 
-**Railogy** *(Private)* — Interactive Rails analogy site for learning the fundamentals the easy way.
+**Railogy** *(Private)* — Learn Ruby on Rails through interactive visual analogies.
 
-**starwatch** *(Private)* — TUI for browsing and managing GitHub repositories.
+**starwatch** *(Private)* — Terminal UI for exploring and managing GitHub repositories.
 
-**otakusheet** *(Private)* — CLI tool that makes media tracking effortless.
+**otakusheet** *(Private)* — Command-line media tracker for anime, manga, series and more.
 
 ### 🛠 Stack
 

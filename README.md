@@ -16,8 +16,6 @@ Most of my current work is private and under active development.
 
 **Starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
 
-**OtakuSheet** *(Private)* - Command-line media tracker for anime, manga, series and more.
-
 ## Stack
 
 

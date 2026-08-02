@@ -3,6 +3,10 @@ Full-Stack Developer · 3D Web Developer · Memory Athlete
 
 I enjoy building developer tools, interactive learning platforms, terminal applications, and 3D web experiences.
 
+## GitHub
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IntrovertInsaan&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Currently Building
 Most of my current work is private while under active development.
 

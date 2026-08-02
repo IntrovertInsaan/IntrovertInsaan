@@ -10,13 +10,13 @@ I enjoy building developer tools, interactive learning platforms, terminal appli
 ### Currently Building
 Most of my current work is private while under active development.
 
-**[Krubiks](https://krubiks.pages.dev/)** *(Private)* — Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
+**[Krubiks](https://krubiks.pages.dev/)** *(Private)* - Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
 
-**Railogy** *(Private)* — Learn Ruby on Rails through interactive visual analogies.
+**Railogy** *(Private)* - Learn Ruby on Rails through interactive visual analogies.
 
-**starwatch** *(Private)* — Terminal UI for exploring and managing GitHub repositories.
+**starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
 
-**otakusheet** *(Private)* — Command-line media tracker for anime, manga, series and more.
+**otakusheet** *(Private)* - Command-line media tracker for anime, manga, series and more.
 
 ### 🛠 Stack
 

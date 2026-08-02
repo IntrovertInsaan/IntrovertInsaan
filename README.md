@@ -1,22 +1,22 @@
 # 👋 Hello, I'm Raja Dodve
 Full-Stack Developer · 3D Web Developer · Memory Athlete
 
-I enjoy building developer tools, interactive learning platforms, terminal applications, and 3D web experiences.
+I build developer tools, interactive learning platforms, terminal applications, and immersive 3D web experiences.
 
 ## GitHub
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IntrovertInsaan&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Currently Building
-Most of my current work is private while under active development.
+Most of my current work is private and under active development.
 
 **[Krubiks](https://krubiks.pages.dev/)** *(Private)* - Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
 
 **Railogy** *(Private)* - Learn Ruby on Rails through interactive visual analogies.
 
-**starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
+**Starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
 
-**otakusheet** *(Private)* - Command-line media tracker for anime, manga, series and more.
+**OtakuSheet** *(Private)* - Command-line media tracker for anime, manga, series and more.
 
 ### 🛠 Stack
 

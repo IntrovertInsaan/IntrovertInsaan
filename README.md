@@ -22,12 +22,12 @@ Most of my current work is private and under active development.
 | Layer | Technologies |
 |:---|:---|
 | **Languages** | Ruby, Rust, Python, TypeScript |
+| **Frontend** | Astro, React, Svelte |
+| **Backend** | Ruby on Rails, Node.js, Hono |
 | **3D & Graphics** | Three.js, React Three Fiber, Blender |
-| **Frontend** | Astro, React, Svelte, Vue |
-| **Backend** | Ruby on Rails, Hono, Node.js |
 | **Database** | PostgreSQL, SQLite, Turso |
 | **DevOps** | Linux, Docker, Nginx, Bash |
-| **Tooling** | Neovim, Git, WezTerm |
+| **Tooling** | Kitty, Neovim, Git |
 
 
 ## Memory Athlete (6+ years)

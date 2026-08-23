@@ -13,7 +13,7 @@ I build developer tools, interactive learning platforms, terminal applications, 
 
 **[Low-poly Farm](https://low-poly-farm.pages.dev/)** - Interactive 3D portfolio world with portals, day/night cycles, weather, a 3D library, and WASD exploration.
 
-**[Clarity](https://clarity.pages.dev/)** - AI decision guide with curated question flows that teach you how to choose, not just what to buy.
+**[Clarity](https://clarity-475.pages.dev/)** - AI decision guide with curated question flows that teach you how to choose, not just what to buy.
 
 **[Internals-X](https://internals-x.pages.dev/)** - Learn Git from the inside out by running real commands in a guided terminal and watching Git's object model come alive in 3D.
 

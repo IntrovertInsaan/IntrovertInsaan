@@ -7,14 +7,30 @@ I build developer tools, interactive learning platforms, terminal applications, 
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IntrovertInsaan&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Projects
+
+**[Krubiks](https://krubiks.pages.dev/)** - Interactive 3D training environment for blindfolded Rubik's Cube solving, combining method lessons, guided memo visualization, Speffz tracing, flashcards, and step-by-step execution.
+
+**[Low-poly Farm](https://low-poly-farm.pages.dev/)** - Interactive 3D portfolio world with portals, day/night cycles, weather, a 3D library, and WASD exploration.
+
+**[Clarity](https://clarity.pages.dev/)** - AI decision guide with curated question flows that teach you how to choose, not just what to buy.
+
+**[Internals-X](https://internals-x.pages.dev/)** - Learn Git from the inside out by running real commands in a guided terminal and watching Git's object model come alive in 3D.
+
+**[OtakuSen](https://github.com/IntrovertInsaan/OtakuSen)** - Full-featured media tracker for anime, manga, manhwa, manhua, games, movies, and more, with reviews, notes, favorites, achievements, profiles, search, and a real-time community forum.
+
+**[decryptors](https://github.com/IntrovertInsaan/decryptors)** - CLI puzzle game where you decrypt hidden information through unconventional thinking.
+
+**[pacwatch](https://github.com/IntrovertInsaan/pacwatch)** - Terminal UI for exploring your installed Arch Linux packages through custom categories, focused on understanding your system rather than managing it.
+
+**[Cliajar](https://cliajar.pages.dev/)** - One hand-picked CLI tool per category. Curated, not ranked.
+
 ## Currently Building
 Most of my current work is private and under active development.
 
-**[Krubiks](https://krubiks.pages.dev/)** *(Private)* - Interactive blindfold Rubik's Cube trainer with real-time 3D visualization.
+**Railogy** *(Private)* - Interactive visual guide to Ruby on Rails architecture using analogies and a living 3D world.
 
-**Railogy** *(Private)* - Learn Ruby on Rails through interactive visual analogies.
-
-**Starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
+**starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
 
 ## Stack
 

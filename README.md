@@ -30,8 +30,6 @@ Most of my current work is private and under active development.
 
 **Railogy** *(Private)* - Interactive visual guide to Ruby on Rails architecture using analogies and a living 3D world.
 
-**starwatch** *(Private)* - Terminal UI for exploring and managing GitHub repositories.
-
 ## Stack
 
 

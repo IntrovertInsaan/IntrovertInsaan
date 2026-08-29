@@ -30,6 +30,17 @@ Most of my current work is private and under active development.
 
 **Railogy** *(Private)* - Interactive visual guide to Ruby on Rails architecture using analogies and a living 3D world.
 
+## Internship Experience
+
+**Programmer Intern | Remote | 2025**
+
+Worked remotely under the mentorship of a senior software engineer on practical web development and production application work.
+
+- Worked on assigned development issues, researching and learning the technologies and concepts needed to solve them
+- Built web features using **HTML, CSS, JavaScript, and Astro**, while learning **Three.js through Three.js Journey** and applying it to interactive 3D web experiences
+- Worked with **Ruby on Rails**, contributing to application development, testing, and production code
+- Worked across **frontend, backend, databases, testing, and developer tooling** throughout the internship
+
 ## Stack
 
 

@@ -81,9 +81,7 @@ Curiosity beats complexity.
 
 My favorite debugging assistant. 🐈
 
-<p align="center">
-  <img src="./images/cat.webp" width="350" alt="My cat">
-</p>
+<img src="./images/cat.webp" width="220" alt="My cat">
 
 ## Connect
 - **Happy to chat about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.

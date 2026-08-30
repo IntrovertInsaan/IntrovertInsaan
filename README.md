@@ -3,10 +3,6 @@ Full-Stack Developer · 3D Web Developer · Memory Athlete
 
 I build developer tools, interactive learning platforms, terminal applications, and immersive 3D web experiences.
 
-## GitHub
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IntrovertInsaan&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Projects
 
 **[Krubiks](https://krubiks.pages.dev/)** - Interactive 3D training environment for blindfolded Rubik's Cube solving, combining method lessons, guided memo visualization, Speffz tracing, flashcards, and step-by-step execution.

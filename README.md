@@ -73,16 +73,18 @@ Memory athlete, helping people discover what trained memory is capable of.
 - Chess: 1900+ (Lichess), 1700+ (Chess.com)
 
 ## Philosophy
-Write systems that last.
-If you have to do it twice, automate it.
+
+Write systems that last.  
+If you have to do it twice, automate it.  
 Curiosity beats complexity.
 
-## Also
+## Personal
 
 My favorite debugging assistant. 🐈
 
 <img src="./images/cat.webp" width="220" alt="My cat">
 
 ## Connect
+
 - **Happy to chat about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.
 - **Reach me:** [rajadodve43@gmail.com](mailto:rajadodve43@gmail.com)

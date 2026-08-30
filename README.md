@@ -77,6 +77,14 @@ Write systems that last.
 If you have to do it twice, automate it.
 Curiosity beats complexity.
 
+## Also
+
+My favorite debugging assistant. 🐈
+
+<p align="center">
+  <img src="./images/cat.webp" width="350" alt="My cat">
+</p>
+
 ## Connect
 - **Happy to chat about:** Memory Techniques, 3D Web Dev, anything about Ruby on Rails.
 - **Reach me:** [rajadodve43@gmail.com](mailto:rajadodve43@gmail.com)

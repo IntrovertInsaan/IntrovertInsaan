@@ -43,12 +43,12 @@ Worked remotely under the mentorship of a senior software engineer on practical 
 | Layer | Technologies |
 |:---|:---|
 | **Languages** | Ruby, Rust, Python, TypeScript |
-| **Frontend** | Astro, React, Svelte |
+| **Frontend** | Astro, React, Svelte, TailwindCSS |
 | **Backend** | Ruby on Rails, Node.js, Hono |
 | **3D & Graphics** | Three.js, React Three Fiber, Blender |
 | **Database** | PostgreSQL, SQLite, Turso |
-| **DevOps** | Linux, Docker, Nginx, Bash |
-| **Tooling** | Kitty, Neovim, Git |
+| **DevOps** | Linux, Docker, Nginx, Bash scripting, GitHub Actions |
+| **Tooling** | Kitty, Neovim, Zsh, Git |
 
 
 ## Memory Athlete (6+ years)

@@ -1,7 +1,7 @@
 # Hello, I'm Raja Dodve
-Full-Stack Developer · 3D Web Developer · Memory Athlete
+Software Developer | Memory Athlete
 
-I build developer tools, interactive learning platforms, terminal applications, and immersive 3D web experiences.
+I build interactive software, web applications, CLI tools, and 3D web experiences.
 
 ## Projects
 
